@@ -1,0 +1,14 @@
+{
+   "name": "fizzbuzz",
+   "version": "1.0.0",
+   "description": "sample repository",
+   "main": "index.js",
+   "scripts": {
+      "test": "jest"
+   },
+   "author": "yasuo kominami",
+   "license": "MIT",
+   "devDependencies": {
+      "jest": "^26.1.0"
+   }
+}
